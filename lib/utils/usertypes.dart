@@ -1,0 +1,1 @@
+const userTypes=['Student','Teacher','Admin'];
